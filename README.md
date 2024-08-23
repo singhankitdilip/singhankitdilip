@@ -17,7 +17,7 @@ I'm a passionate frontend developer with experience in building full-stack web a
 A real-time chat application built with React, Tailwind CSS, and Firebase.
 
 ## 🌱 Current Focus
-I'm currently working on [Airbnb Clone], which involves [developing a fully functional vacation rental platform. This project leverages Next.js for server-side rendering, Tailwind CSS for modern and responsive design, Prisma for robust data management, and MongoDB for scalable data storage.].
+I'm currently working on Airbnb Clone, which involves developing a fully functional vacation rental platform. This project leverages Next.js for server-side rendering, Tailwind CSS for modern and responsive design, Prisma for robust data management, and MongoDB for scalable data storage.
 
 ## 💼 Get in Touch
 - 📫 **Email**: singhankitdilip@gmail.com
