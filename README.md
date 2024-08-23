@@ -1,4 +1,4 @@
-# Hi, I'm [Ankit Singh] 👋
+# Hi, I'm Ankit Singh 👋
 
 ## 👨‍💻 About Me
 I'm a passionate frontend developer with experience in building full-stack web applications using the MERN stack. I enjoy creating efficient and scalable solutions with modern technologies.
