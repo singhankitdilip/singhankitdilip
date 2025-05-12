@@ -4,7 +4,7 @@
 I'm a passionate frontend developer with experience in building full-stack web applications using the MERN stack. I enjoy creating efficient and scalable solutions with modern technologies.
 
 - 🌍 Based in [Navi Mumbai]
-- 🏢 Currently working at [Prospera hospitality pvt ltd.]
+- 🏢 Currently working at [Awdiz IT Services pvt ltd.]
 - 🔧 Technologies I work with:
   - **Frontend**: Next.js, React.js, Tailwind CSS, Next UI
   - **Backend**: Node.js, Express.js, Prisma
